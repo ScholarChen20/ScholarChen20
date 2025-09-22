@@ -47,6 +47,8 @@ I'm **ScholarChen20**, a passionate computer science student based in Shenzhen, 
 | 🔀 Pull Requests      | 5     |
 | 🐛 Issues Opened      | 4     |
 
+<img align="right" alt="img" src="medical-data.png" width="50%" height="auto" title = "Medical Segment Anything" />
+
 ### 📌 Pinned Projects ↓
 
 #### 💡 Fun Fact:
