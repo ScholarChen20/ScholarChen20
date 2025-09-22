@@ -7,7 +7,7 @@
 
 I'm **ScholarChen20**, a passionate computer science student based in Shenzhen, exploring the endless possibilities of code and creativity.
 
-<img align="right" alt="img" src=data.png" width="50%" height="auto" title = "Segment Anything" />
+<img align="right" alt="img" src="data.png" width="50%" height="auto" title = "Segment Anything" />
 
 ### 🔥 What I’m Up To Currently:
 - 🎓 Wrapping up my Computer Engineering Undergraduate Degree  
