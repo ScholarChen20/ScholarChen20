@@ -41,9 +41,9 @@ I'm **ScholarChen20**, a passionate computer science student based in Shenzhen, 
 ### 📊 GitHub Highlights:
 | Metric                | Count |
 |-----------------------|-------|
-| 🌟 Stars Earned       | 2     |
-| 📦 Contributed to     | 1     |
-| 🧑‍💻 Annual Commit Count | 10    |
+| 🌟 Stars Earned       | 17    |
+| 📦 Contributed to     | 176   |
+| 🧑‍💻 Annual Commit Count| 100   |
 | 🔀 Pull Requests      | 0     |
 | 🐛 Issues Opened      | 1     |
 
