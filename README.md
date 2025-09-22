@@ -7,11 +7,11 @@
 
 I'm **ScholarChen20**, a passionate computer science student based in Shenzhen, exploring the endless possibilities of code and creativity.
 
-<img align="right" alt="img" src="data.png" width="50%" height="auto" title = "Segment Anything" />
-<img align="right" alt="img" src="medical-data.png" width="50%" height="auto" title = "Medical Segment Anything" />
+<img align="right" alt="img" src="data.png" width="50%" height="20%" title = "Segment Anything" />
+<img align="right" alt="img" src="medical-data.png" width="50%" height="20%" title = "Medical Segment Anything" />
 
 ### 🔥 What I’m Up To Currently:
-- 🎓 Wrapping up my Computer Engineering Undergraduate Degree  
+- 🎓 Wrapping up my Computer Engineering Postgraduate Degree  
 - 🤖 Diving deep into **AI, Computer Vision & Machine Learning** through hands-on projects and courses  
 - 🐧 Sharpening my **Linux & systems programming** chops for upcoming internships  
 - 🌱 Growing my own open-source tools and automation scripts
