@@ -1,9 +1,13 @@
 # Hi there! 👋 Nice to have you here.
 
 ## Welcome to my GitHub Universe! 🚀
+
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ScholarChen20)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:scholarccc184@gmail.com)
+
 I'm **ScholarChen20**, a passionate computer science student based in Shenzhen, exploring the endless possibilities of code and creativity.
+
+<img align="right" alt="img" src=data.png" width="50%" height="auto" title = "Segment Anything" />
 
 ### 🔥 What I’m Up To Currently:
 - 🎓 Wrapping up my Computer Engineering Undergraduate Degree  
