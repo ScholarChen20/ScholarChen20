@@ -7,8 +7,8 @@
 
 I'm **ScholarChen20**, a passionate computer science student based in Shenzhen, exploring the endless possibilities of code and creativity.
 
-<img align="right" alt="img" src="data.png" width="50%" height="20%" title = "Segment Anything" />
-<img align="right" alt="img" src="medical-data.png" width="50%" height="20%" title = "Medical Segment Anything" />
+<img align="right" alt="img" src="data.png" width="50%" height="auto" style="margin-bottom: 20px;" alt = "Segment Anything" />
+<img align="right" alt="img" src="medical-data.png" width="50%" height="auto" style="margin-bottom: 20px;" alt = "Medical Segment Anything" />
 
 ### 🔥 What I’m Up To Currently:
 - 🎓 Wrapping up my Computer Engineering Postgraduate Degree  
