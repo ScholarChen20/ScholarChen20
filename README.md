@@ -23,7 +23,7 @@ I'm **ScholarChen20**, a passionate computer science student based in Shenzhen, 
 
 #### ⚙️ Programming languages and tools: 
 <p>
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Parker-rfu&show_icons=true&hide_border=true" />
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=ScholarChen20&show_icons=true&hide_border=true" />
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
