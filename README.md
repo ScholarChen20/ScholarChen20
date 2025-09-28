@@ -11,15 +11,15 @@ I'm **ScholarChen20**, a passionate computer science student based in Shenzhen, 
 <img align="right" alt="img" src="medical-data.png" width="50%" height="auto" style="margin-bottom: 20px;" alt = "Medical Segment Anything" />
 
 ### 🔥 What I’m Up To Currently:
-- 🎓 Wrapping up my Computer Engineering Postgraduate Degree  
+- 🎓 Wrapping up my **Computer Engineering Postgraduate Degree**  
 - 🤖 Diving deep into **AI, Computer Vision & Machine Learning** through hands-on projects and courses  
-- 🐧 Sharpening my **Linux & systems programming** chops for upcoming internships  
+- 🐧 Sharpening my **Linux & python programming** chops for upcoming internships  
 - 🌱 Growing my own open-source tools and automation scripts
 
 ### 🚀 My Current Challenges:
 - 🌅 Building a **5 AM coding routine** for maximum productivity  
 - ⌨️ **#100DaysOfCode** – committing daily to public projects  
-- 🧠 Learning one new tech stack each month (currently: **Rust + WebAssembly**)  
+- 🧠 Learning one new tech stack each month (currently: **SAM + CLIP**)  
 - 📚 Finishing **2 tech books & 1 sci-fi novel** every month
 
 #### ⚙️ Programming languages and tools: 
